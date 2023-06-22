@@ -128,7 +128,7 @@ namespace Microsoft.Maui.Controls
 				}
 				else
 					script = "try{eval('" + script + "')}catch(e){'null'};";
-			}   
+			}
 
 			string result;
 
